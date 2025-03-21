@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|c:\\suraj\\suraj\\api\\jwttokenbasedauth\\jwttokenbaseddotnetapiauth\\jwttokenbasedauthdotnetapi\\apicontroller\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|solutionrelative:jwttokenbasedauthdotnetapi\\apicontroller\\productapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|c:\\suraj\\suraj\\api\\jwttokenbasedauth\\jwttokenbaseddotnetapiauth\\jwttokenbasedauthdotnetapi\\apicontroller\\userauthapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|solutionrelative:jwttokenbasedauthdotnetapi\\apicontroller\\userauthapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|c:\\suraj\\suraj\\api\\jwttokenbasedauth\\jwttokenbaseddotnetapiauth\\jwttokenbasedauthdotnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|solutionrelative:jwttokenbasedauthdotnetapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|c:\\suraj\\suraj\\api\\jwttokenbasedauth\\jwttokenbaseddotnetapiauth\\jwttokenbasedauthdotnetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|solutionrelative:jwttokenbasedauthdotnetapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|c:\\suraj\\suraj\\api\\jwttokenbasedauth\\jwttokenbaseddotnetapiauth\\jwttokenbasedauthdotnetapi\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ADEE89B-7EC0-472C-9034-8E7486D1DF7C}|JWTTokenBasedAuthDotNetAPI\\JWTTokenBasedAuthDotNetAPI.csproj|solutionrelative:jwttokenbasedauthdotnetapi\\model\\productmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\Program.cs",
+              "RelativeDocumentMoniker": "JWTTokenBasedAuthDotNetAPI\\Program.cs",
+              "ToolTip": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\Program.cs",
+              "RelativeToolTip": "JWTTokenBasedAuthDotNetAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:10:02.949Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserAuthAPIController.cs",
+              "DocumentMoniker": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\APIController\\UserAuthAPIController.cs",
+              "RelativeDocumentMoniker": "JWTTokenBasedAuthDotNetAPI\\APIController\\UserAuthAPIController.cs",
+              "ToolTip": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\APIController\\UserAuthAPIController.cs",
+              "RelativeToolTip": "JWTTokenBasedAuthDotNetAPI\\APIController\\UserAuthAPIController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAApwBcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:10:58.747Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{57d563b6-44a5-47df-85be-f4199ad6b651}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "JWTTokenBasedAuthDotNetAPI\\appsettings.json",
+              "ToolTip": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\appsettings.json",
+              "RelativeToolTip": "JWTTokenBasedAuthDotNetAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-21T18:35:55.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductModel.cs",
+              "DocumentMoniker": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\Model\\ProductModel.cs",
+              "RelativeDocumentMoniker": "JWTTokenBasedAuthDotNetAPI\\Model\\ProductModel.cs",
+              "ToolTip": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\Model\\ProductModel.cs",
+              "RelativeToolTip": "JWTTokenBasedAuthDotNetAPI\\Model\\ProductModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:27:06.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductAPIController.cs",
+              "DocumentMoniker": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\APIController\\ProductAPIController.cs",
+              "RelativeDocumentMoniker": "JWTTokenBasedAuthDotNetAPI\\APIController\\ProductAPIController.cs",
+              "ToolTip": "C:\\Suraj\\Suraj\\API\\JWTTokenBasedAuth\\JWTTokenBasedDotNetAPIAuth\\JWTTokenBasedAuthDotNetAPI\\APIController\\ProductAPIController.cs",
+              "RelativeToolTip": "JWTTokenBasedAuthDotNetAPI\\APIController\\ProductAPIController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T18:26:11.786Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

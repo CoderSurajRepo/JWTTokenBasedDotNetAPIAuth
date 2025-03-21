@@ -1,5 +1,41 @@
 [
   {
+    "ContainingType": "JWTTokenBasedAuthDotNetAPI.APIController.ProductAPIController",
+    "Method": "GetAllProductList",
+    "RelativePath": "api/ProductAPI/GetAllProductList",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "JWTTokenBasedAuthDotNetAPI.APIController.UserAuthAPIController",
+    "Method": "GenerateJWTToken",
+    "RelativePath": "api/UserAuthAPI",
+    "HttpMethod": "",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "JWTTokenBasedAuthDotNetAPI.APIController.UserAuthAPIController",
     "Method": "AuthUser",
     "RelativePath": "api/UserAuthAPI/AuthUser",
