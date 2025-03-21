@@ -1,0 +1,23 @@
+[
+  {
+    "ContainingType": "JWTTokenBasedAuthDotNetAPI.APIController.UserAuthAPIController",
+    "Method": "AuthUser",
+    "RelativePath": "api/UserAuthAPI/AuthUser",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "UserName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

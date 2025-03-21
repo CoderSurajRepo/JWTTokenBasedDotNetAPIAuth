@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "9O3wzL7JoYuVgJonl1oe0Q8qcYyrpJwGsrJNVCxELuk=",
+  "Source": "JWTTokenBasedAuthDotNetAPI",
+  "BasePath": "_content/JWTTokenBasedAuthDotNetAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
